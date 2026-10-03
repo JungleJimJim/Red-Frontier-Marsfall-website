@@ -1,0 +1,875 @@
+[
+  {
+    "output": "assets/ares-command-hub.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Command-Hub.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 131676
+  },
+  {
+    "output": "assets/ares-crystal-farm.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Crystal-Farm.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 148744
+  },
+  {
+    "output": "assets/ares-food-farm.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Food-Farm.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 122992
+  },
+  {
+    "output": "assets/ares-hologram-decoy.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Hologram-Decoy.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 84154
+  },
+  {
+    "output": "assets/ares-hospital.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Hospital.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 128822
+  },
+  {
+    "output": "assets/ares-laser.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Laser.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 108638
+  },
+  {
+    "output": "assets/ares-orbital-energy-array.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Orbital-Energy-Array.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 174642
+  },
+  {
+    "output": "assets/ares-power-plant.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Power-Plant.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 133286
+  },
+  {
+    "output": "assets/ares-repair-bay.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Repair-Bay.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 155610
+  },
+  {
+    "output": "assets/ares-shield-generator.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Shield-Generator.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 133814
+  },
+  {
+    "output": "assets/ares-shipyard.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Shipyard.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 163194
+  },
+  {
+    "output": "assets/ares-turret.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Turret.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 105218
+  },
+  {
+    "output": "assets/ares-watchtower.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Buildings/Concept-Ares-Watchtower.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 63930
+  },
+  {
+    "output": "assets/ares-bazooka.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Bazooka.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 70424
+  },
+  {
+    "output": "assets/ares-commando.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Commando.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 76236
+  },
+  {
+    "output": "assets/ares-drone.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Drone.png",
+    "crop": null,
+    "width": 1254,
+    "height": 836,
+    "bytes": 59410
+  },
+  {
+    "output": "assets/ares-engineer.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Engineer.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 73792
+  },
+  {
+    "output": "assets/ares-grenadier.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Grenadier.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 74308
+  },
+  {
+    "output": "assets/ares-harvester.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Harvester.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 150746
+  },
+  {
+    "output": "assets/ares-hero.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Hero.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 86962
+  },
+  {
+    "output": "assets/ares-infantry.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Infantry.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 74982
+  },
+  {
+    "output": "assets/ares-jeep.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Jeep.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 137782
+  },
+  {
+    "output": "assets/ares-mine-layer.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Mine-Layer.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 75270
+  },
+  {
+    "output": "assets/ares-missile-ship.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Missile-Ship.png",
+    "crop": null,
+    "width": 1254,
+    "height": 836,
+    "bytes": 59532
+  },
+  {
+    "output": "assets/ares-rocket-launcher.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Rocket-Launcher.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 85048
+  },
+  {
+    "output": "assets/ares-rover.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Rover.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 153970
+  },
+  {
+    "output": "assets/ares-sniper.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Sniper.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 76286
+  },
+  {
+    "output": "assets/ares-suicide-bomber.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Suicide-Bomber.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 88692
+  },
+  {
+    "output": "assets/ares-tank.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Tank.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 93116
+  },
+  {
+    "output": "assets/wildlife-critter.webp",
+    "source": "Marsfall-v3/Concept-Art/Roaming-Creatures/Concept-Roaming-Critter.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 103486
+  },
+  {
+    "output": "assets/wildlife-titan.webp",
+    "source": "Marsfall-v3/Concept-Art/Roaming-Creatures/Concept-Roaming-Titan.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 170458
+  },
+  {
+    "output": "assets/xenaari-breeding-ground.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Breeding-Ground.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 123338
+  },
+  {
+    "output": "assets/xenaari-brood-nexus.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Brood-Nexus.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 160910
+  },
+  {
+    "output": "assets/xenaari-evolution-garden.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Evolution-Garden.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 147546
+  },
+  {
+    "output": "assets/xenaari-locust-hive.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Locust-Hive.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 181424
+  },
+  {
+    "output": "assets/xenaari-mending-pool.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Mending-Pool.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 134444
+  },
+  {
+    "output": "assets/xenaari-plasma-well.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Plasma-Well.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 120672
+  },
+  {
+    "output": "assets/xenaari-regrowth-sanctuary.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Regrowth-Sanctuary.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 120586
+  },
+  {
+    "output": "assets/xenaari-sentinel-spire.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Sentinel-Spire.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 65814
+  },
+  {
+    "output": "assets/xenaari-shield-generator.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Shield-Generator.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 138894
+  },
+  {
+    "output": "assets/xenaari-spore-battery.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Spore-Battery.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 125978
+  },
+  {
+    "output": "assets/xenaari-void-lance.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Buildings/Concept-Xenaari-Void-Lance.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 130340
+  },
+  {
+    "output": "assets/xenaari-behemoth.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Behemoth.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 149816
+  },
+  {
+    "output": "assets/xenaari-brood-queen.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Brood-Queen.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 109314
+  },
+  {
+    "output": "assets/xenaari-commando.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Commando.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 76824
+  },
+  {
+    "output": "assets/xenaari-great-sandworm.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Great-Sandworm.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 140514
+  },
+  {
+    "output": "assets/xenaari-kamikaze.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Kamikaze.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 102448
+  },
+  {
+    "output": "assets/xenaari-lanceborn.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Lanceborn.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 90496
+  },
+  {
+    "output": "assets/xenaari-mine-layer.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Mine-Layer.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 100230
+  },
+  {
+    "output": "assets/xenaari-rocket-launcher.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Rocket-Launcher.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 166994
+  },
+  {
+    "output": "assets/xenaari-skimmer.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Skimmer.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 89442
+  },
+  {
+    "output": "assets/xenaari-sky-manta.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Sky-Manta.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 65706
+  },
+  {
+    "output": "assets/xenaari-sky-reaver.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Sky-Reaver.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 85684
+  },
+  {
+    "output": "assets/xenaari-sniper.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Sniper.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 79628
+  },
+  {
+    "output": "assets/xenaari-spitter.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Spitter.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 98058
+  },
+  {
+    "output": "assets/xenaari-stalker.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Stalker.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 62702
+  },
+  {
+    "output": "assets/xenaari-suicide-bomber.webp",
+    "source": "Marsfall-v3/Concept-Art/Xenaari-Brood-Units/Concept-Xenaari-Suicide-Bomber.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 86428
+  },
+  {
+    "output": "assets/ares-barracks.webp",
+    "source": "Marsfall-v3/Concept-Barracks.png",
+    "crop": null,
+    "width": 1254,
+    "height": 784,
+    "bytes": 54734
+  },
+  {
+    "output": "assets/ares-factory.webp",
+    "source": "Marsfall-v2/art-direction/concepts/ares-factory-concept.png",
+    "crop": null,
+    "width": 1254,
+    "height": 836,
+    "bytes": 274196
+  },
+  {
+    "output": "assets/xenaari-hatchery.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      344,
+      661,
+      508,
+      812
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 6386
+  },
+  {
+    "output": "assets/xenaari-morph-foundry.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      512,
+      661,
+      676,
+      812
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 8326
+  },
+  {
+    "output": "assets/xenaari-collector.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      8,
+      470,
+      172,
+      621
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 8072
+  },
+  {
+    "output": "assets/xenaari-crystal-assimilator.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      8,
+      852,
+      172,
+      1003
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 7538
+  },
+  {
+    "output": "assets/xenaari-relay.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      512,
+      1043,
+      676,
+      1194
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 6364
+  },
+  {
+    "output": "assets/xenaari-terminal.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      680,
+      1043,
+      844,
+      1194
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 7164
+  },
+  {
+    "output": "assets/xenaari-fortress.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": [
+      848,
+      1043,
+      1012,
+      1194
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 8114
+  },
+  {
+    "output": "assets/ares-relay.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      680,
+      1043,
+      844,
+      1194
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 5402
+  },
+  {
+    "output": "assets/ares-terminal.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      848,
+      1043,
+      1012,
+      1194
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 7228
+  },
+  {
+    "output": "assets/ares-fortress.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      8,
+      1234,
+      172,
+      1385
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 7068
+  },
+  {
+    "output": "assets/ares-caravan.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      680,
+      470,
+      844,
+      621
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 8472
+  },
+  {
+    "output": "assets/ares-wreck.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      848,
+      470,
+      1012,
+      621
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 7706
+  },
+  {
+    "output": "assets/ares-command-core.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": [
+      176,
+      661,
+      340,
+      812
+    ],
+    "width": 164,
+    "height": 151,
+    "bytes": 6738
+  },
+  {
+    "output": "assets/cover.webp",
+    "source": "Marsfall-v3/Concept-Art/Movie-Posters/Red-Frontier-Marsfall-Poster-Vale-vs-Titan-16x9.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 415354
+  },
+  {
+    "output": "assets/brood-cover.webp",
+    "source": "Marsfall-v3/Concept-Art/Movie-Posters/Red-Frontier-Marsfall-Poster-Brood-Queen-16x9.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 376724
+  },
+  {
+    "output": "assets/bazooka-cover.webp",
+    "source": "Marsfall-v3/Concept-Art/Movie-Posters/Red-Frontier-Marsfall-Poster-Ares-Bazooka-16x9.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 252056
+  },
+  {
+    "output": "assets/spitter-cover.webp",
+    "source": "Marsfall-v3/Concept-Art/Movie-Posters/Red-Frontier-Marsfall-Poster-Xenaari-Spitter-16x9.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 303782
+  },
+  {
+    "output": "assets/infantry-render.webp",
+    "source": "Marsfall-v3/assets/infantry/ares_pbr/AresInfantry_PBR_ThreeQuarter_Render.png",
+    "crop": null,
+    "width": 1024,
+    "height": 1280,
+    "bytes": 41226
+  },
+  {
+    "output": "assets/rover-render.webp",
+    "source": "Marsfall-v3/assets/models/Rover_Ares_PBR/Rover_Ares_Concept_PBR_Render.png",
+    "crop": null,
+    "width": 1440,
+    "height": 1080,
+    "bytes": 44316
+  },
+  {
+    "output": "assets/tank-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Tank.png",
+    "crop": null,
+    "width": 1100,
+    "height": 1100,
+    "bytes": 38750
+  },
+  {
+    "output": "assets/barracks-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Barracks.png",
+    "crop": null,
+    "width": 1100,
+    "height": 1100,
+    "bytes": 57278
+  },
+  {
+    "output": "assets/soldier-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Infantry.png",
+    "crop": null,
+    "width": 1100,
+    "height": 1100,
+    "bytes": 24420
+  },
+  {
+    "output": "assets/grenadier-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Grenadier.png",
+    "crop": null,
+    "width": 1100,
+    "height": 1100,
+    "bytes": 26170
+  },
+  {
+    "output": "assets/bazooka-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Bazooka.png",
+    "crop": null,
+    "width": 1100,
+    "height": 1100,
+    "bytes": 23634
+  },
+  {
+    "output": "assets/jeep-render.webp",
+    "source": "Marsfall-v2/art-direction/blender/Trailblazer.png",
+    "crop": null,
+    "width": 1400,
+    "height": 1100,
+    "bytes": 58236
+  },
+  {
+    "output": "assets/buildings-render.webp",
+    "source": "work/buildings1/Godot-buildings.png",
+    "crop": null,
+    "width": 1600,
+    "height": 1000,
+    "bytes": 65316
+  },
+  {
+    "output": "assets/behemoth-render.webp",
+    "source": "work/behemoth-source.png",
+    "crop": null,
+    "width": 1000,
+    "height": 760,
+    "bytes": 42484
+  },
+  {
+    "output": "assets/spitter-render.webp",
+    "source": "work/new-units/Spitter-source.png",
+    "crop": null,
+    "width": 900,
+    "height": 900,
+    "bytes": 53938
+  },
+  {
+    "output": "assets/skimmer-render.webp",
+    "source": "work/new-units/Skimmer-source.png",
+    "crop": null,
+    "width": 900,
+    "height": 900,
+    "bytes": 32440
+  },
+  {
+    "output": "assets/direct-control.webp",
+    "source": "Marsfall-v3/Remodel-first-person.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 175826
+  },
+  {
+    "output": "assets/ares-gameplay.webp",
+    "source": "Marsfall-v3/Immersion-Humans.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 59984
+  },
+  {
+    "output": "assets/brood-gameplay.webp",
+    "source": "Marsfall-v3/Immersion-Brood.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 56292
+  },
+  {
+    "output": "assets/terrain-gameplay.webp",
+    "source": "Marsfall-v3/Immersion-Terrain.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 183002
+  },
+  {
+    "output": "assets/spitter-gameplay.webp",
+    "source": "Marsfall-v3/work/Spitter-Last-Stand-gameplay.png",
+    "crop": null,
+    "width": 1800,
+    "height": 1125,
+    "bytes": 219460
+  },
+  {
+    "output": "assets/last-stand.webp",
+    "source": "Marsfall-v3/work/survival-update/Last-Stand-base-and-dropship.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 85098
+  },
+  {
+    "output": "assets/cantina.webp",
+    "source": "Marsfall-v3/work/cantina-rebuild/cantina.png",
+    "crop": null,
+    "width": 1440,
+    "height": 900,
+    "bytes": 72194
+  },
+  {
+    "output": "assets/ares-atlas.webp",
+    "source": "Marsfall-v2/art-direction/ares-complete-concept-atlas.png",
+    "crop": null,
+    "width": 1024,
+    "height": 1536,
+    "bytes": 364390
+  },
+  {
+    "output": "assets/brood-atlas.webp",
+    "source": "Marsfall-v2/art-direction/xenaari-complete-concept-atlas.png",
+    "crop": null,
+    "width": 1024,
+    "height": 1536,
+    "bytes": 388810
+  },
+  {
+    "output": "assets/infantry-blueprint.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Infantry-Blueprint.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 230690
+  },
+  {
+    "output": "assets/vale-concept.webp",
+    "source": "Marsfall-v3/Concept-Art/Ares-Expedition-Units/Concept-Ares-Hero-Gatling.png",
+    "crop": null,
+    "width": 1254,
+    "height": 1254,
+    "bytes": 128804
+  },
+  {
+    "output": "assets/critter-study.webp",
+    "source": "Marsfall-v3/Concept-Art/Roaming-Creatures/Concept-Roaming-Critter-Field-Study.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 382084
+  },
+  {
+    "output": "assets/wildlife-landscape.webp",
+    "source": "Marsfall-v3/Concept-Art/Roaming-Creatures/Concept-Roaming-Creatures-Lands.png",
+    "crop": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 255548
+  }
+]
