@@ -1,5 +1,7 @@
 # Red Frontier: Marsfall — official website
 
+[Visit the live website](https://junglejimjim.github.io/Red-Frontier-Marsfall-website/).
+
 A cinematic, responsive sales website for Jungle Jim’s single-player Mars RTS.
 
 - **The game:** gameplay hook, strategy/direct-control switch, factions, campaign and skirmish features, free six-mission demo, and $5 full-game offer.
@@ -37,9 +39,9 @@ When available, replace `purchaseUrl` with the exact Marsfall product URL so cus
 
 ## GitHub Pages
 
-The checked-in pages are ready for a project site. In this repository’s **Settings → Pages**, choose **Deploy from a branch**, then **main / (root)**, and save. `.nojekyll` keeps the static files intact.
+GitHub Pages is enabled using **main / (root)**. Pushing updated generated pages to `main` republishes the site. `.nojekyll` keeps the static files intact.
 
-The expected URL after GitHub finishes deployment is:
+The live URL is:
 
 `https://junglejimjim.github.io/Red-Frontier-Marsfall-website/`
 
